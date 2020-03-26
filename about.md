@@ -12,8 +12,8 @@ permalink: /about/
 
 
 ### More Information
-    希望有钱且自由。
+   希望有钱且自由。
 
 
 ### Contact me
-    ymproto@gmail.com
+   ymproto@gmail.com
