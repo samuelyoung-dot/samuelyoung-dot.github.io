@@ -3,17 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+ ####
+ 成长于80's中后期；
+ 生于逐渐开放的自由，成长于逐渐缩小的自由环境种，
+  生而自由，向往自由。
+  宁为太平犬，不为乱世人。
+  管理学学士学位，目前就职于私人企业。
+  希望能够记录平凡人的生活与感想。
 
-Some information about you!
-
-
-
-无话可说
 
 ### More Information
+希望有钱且自由。
 
-就这样吧
 
 ### Contact me
 
-[whoviam@163.com](mailto:email@domain.com)
