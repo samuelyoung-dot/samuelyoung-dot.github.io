@@ -25,4 +25,5 @@ permalink: /about/
 
 ### Donate me
    如果您想请我喝咖啡，请点击PayPal链接
-   paypal.me/donhai
+   
+   [paypal.me/donhai](https://paypal.me/donhai?locale.x=zh_XC)
