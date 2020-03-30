@@ -21,7 +21,7 @@ permalink: /about/
 
 
 ### Contact me
-   ymproto@gmail.com
+   [arioch.cain@outlook.com]
 
 ### Donate me
    如果您想请我喝咖啡，请扫下方支付宝二维码
