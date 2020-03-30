@@ -22,3 +22,7 @@ permalink: /about/
 
 ### Contact me
    ymproto@gmail.com
+
+### Donate me
+   如果您想请我喝咖啡，请点击PayPal链接
+   paypal.me/donhai
