@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 记录A
+tittle: 记录A
+
 ---
 
 昨天同鑫总在一起。
